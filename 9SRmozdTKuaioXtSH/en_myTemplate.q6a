@@ -1,0 +1,168 @@
+{
+	"fileName": "en_myTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "b7aee4cc-19f3-5148-3c33-46c75967111e",
+			"fileTemplateDate": "2019-05-22T19:32:22.708Z",
+			"fileTemplateCollections": [
+				"9SRmozdTKuaioXtSH"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"9SRmozdTKuaioXtSH"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "mnDTnJkmaLrPH7ym5",
+			"possibleLanguages": [
+				"zn7qJXuhM7u8mKBv9",
+				"aq4ZMbSxmSSLxkALv",
+				"AxXG8DMiN8ZSwsJPR",
+				"Dr4RNHKrjP7P5Ekm2"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ea03efe5-8ecd-3a9a-e761-05316212e729",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsEditableCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload - image?",
+						"fieldKey": "image",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5872470b-cf05-e1b3-8083-3453e589bc7b",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsEditableCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload - video?",
+						"fieldKey": "video",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "d6b339ef-2738-667f-8097-7480deda6d8b",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsEditableCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload - audio?",
+						"fieldKey": "audio",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "71e5bd43-a2d0-6af3-5095-15b6afa9b056",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsEditableCollections": [
+							"9SRmozdTKuaioXtSH"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload - text box?",
+						"fieldKey": "text box",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
